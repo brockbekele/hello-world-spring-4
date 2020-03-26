@@ -3,7 +3,7 @@ package guru.springbiruk.demo.domain;
 import java.math.BigDecimal;
 
 /**
- * Created by jt on 11/6/15.
+ * Created by bb 3/26/20.
  */
 public class Product {
     private Integer id;
